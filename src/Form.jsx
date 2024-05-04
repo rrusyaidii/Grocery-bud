@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const Form = () => {
+const Form = ({ addItem }) => {
   const [newItemName, setNewItemName] = useState("");
 
   const handleSubmit = (e) => {
