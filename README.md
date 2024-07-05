@@ -8,3 +8,5 @@ Features
 - Mark as Completed: Mark items as completed with a checkbox.
 - Delete Items: Remove items from the list with a delete button.
 - Persist Data: Uses localStorage to save the list across sessions.
+- Notifications: Displays success and error messages using react-toastify.
+
